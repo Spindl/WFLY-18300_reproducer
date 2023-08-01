@@ -1,0 +1,2 @@
+/subsystem=micrometer:write-attribute(name="endpoint",value="http://localhost:4318/v1/metrics")
+/subsystem=micrometer:write-attribute(name="step",value="10")
